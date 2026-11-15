@@ -1,0 +1,14 @@
+{
+	"geode": "5.9.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"version": "v1.0.0",
+	"id": "dev.dieskip",
+	"name": "Die Skip",
+	"developer": "You",
+	"description": "Die in a level and you skip to the next one."
+}
